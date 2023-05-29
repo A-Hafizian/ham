@@ -1,0 +1,37 @@
+@import url('font.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: iranyekan, iranyekan_numbers;
+    direction: rtl;
+    text-align: right;
+}
+
+body {
+    background-color: #FFABAB;
+}
+
+#container {
+    /* border: 1px solid black; */
+    min-height: 500px;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+#container #top-header {
+    display: block;
+    border: 1px solid #5b5b5b2b;
+    border-radius: 10px;
+    padding: 10px;
+}
+table, tr, td, th{
+    text-align: center;
+}
+.disable{
+    background-color: #dfdfdf;
+    color: #333;
+}

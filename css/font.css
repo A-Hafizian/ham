@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'iranyekan';
+    src: url('../fonts/iranyekan/eot/iranyekanwebregular.eot'),
+    url('../fonts/iranyekan/woff/iranyekanwebregular.woff') format('woff'),
+    url('../fonts/iranyekan/ttf/iranyekanwebregular.ttf') format('truetype');
+}
+
+ @font-face {
+    font-family: 'iranyekan_numbers';
+    src: url('../fonts/iranyekan_numbers/eot/iranyekanwebregular.eot'),
+    url('../fonts/iranyekan_numbers/woff/iranyekanwebregular.woff') format('woff'),
+    url('../fonts/iranyekan_numbers/ttf/iranyekanwebregular.ttf') format('truetype')
+}
